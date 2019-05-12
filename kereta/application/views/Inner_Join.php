@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <?php include "Head.php"; ?>
 
 <div class="container-fluid">
-		<div class="row" style="padding-top:40px;padding-left:10px;padding-right:10px;">
+		<div class="row" style="padding-top:35px;padding-left:15px;padding-right:15px;">
 		<br>
 		<br>
     <div class="">
