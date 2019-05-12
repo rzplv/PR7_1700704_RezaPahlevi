@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>PRA6 PROMNET</title>
   <title>PRA7 PROMNET (github)</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +10,6 @@
 <body>
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">KERETA JOIN PRA6</a>
     <a class="navbar-brand" href="#">KERETA JOIN PRA7</a>
     <button class="navbar-toggler" aria-expanded="false" aria-controls="navbarColor01" aria-label="Toggle navigation" type="button" data-target="#navbarColor01" data-toggle="collapse">
       <span class="navbar-toggler-icon"></span>
